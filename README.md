@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-I have used weather Api to get live weather data from https://openweathermap.org/api.\
+I have used weather Api to get live weather data from https://openweathermap.org/api .\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
